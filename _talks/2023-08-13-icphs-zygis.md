@@ -8,5 +8,5 @@ date: 2023-08-13
 location: "Prague, Czechia"
 ---
 
-Żygis, M., Błaszczak, J., <b>Ćwiek, A.</b>, Saint-Pettersen, M., Wesołek, S., & Gulgowski, P. (08.2023). <i>Attitudes in the German-Polish Context Based on Perceptual Evidence</i>.
+Żygis, M., Błaszczak, J., <b>Ćwiek, A.</b>, Saint-Pettersen, M., Wesołek, S., & Gulgowski, P. (08.2023). <i>Attitudes in the German-Polish Context Based on Perceptual Evidence</i>.<br>
 Poster presented with Marzena Żygis und Sarah Wesołek (doctoral researcher).

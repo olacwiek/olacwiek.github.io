@@ -1,5 +1,5 @@
 ---
-title: "Investigating the communicative function of breathing and non-breathing ""silent"" pauses"
+title: "Investigating the communicative function of breathing and non-breathing \"silent\" pauses"
 collection: publications
 permalink: /publication/2016_cwiek_investigating
 excerpt:

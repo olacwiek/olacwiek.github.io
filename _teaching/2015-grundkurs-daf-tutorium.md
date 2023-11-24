@@ -8,7 +8,7 @@ date: 2015-04-10
 location: "Bielefeld, Germany"
 ---
 
-I led the tutorium to the seminar Introduction to Linguistics DaF by Dr. Susanne Horstmann.
+I led the tutorium to the seminar <i>Introduction to Linguistics DaF</i> by Dr. Susanne Horstmann.
 
 Course description (based on Bielefeld University's ekvv):<br>
 In this seminar, we will look at language and its description. Various aspects relevant to your future professional practice will be discussed, e.g.

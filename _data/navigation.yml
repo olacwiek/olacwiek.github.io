@@ -1,22 +1,33 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
+    #url: https://scholar.google.com/citations?user=jRmut5IAAAAJ
 
-  - title: "Talks"
-    url: /talks/    
+  # TO DO:
+  # - title: "Talks and Events"
+  #   url: /talks/
+  #
+  # - title: "Teaching"
+  #   url: /teaching/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  # CREATE THIS SUBPAGES
+  # - title: "Press"
+  #   url: /press/
+
+  # - title: "Links"
+  #   url: /links/ wsith links to ViCom, FB1 Twitter, envisionBOX
+
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    #url: /cv/
+    url: /files/Cwiek_Aleksandra_CV.pdf
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
+#  - title: "Guide"
+#    url: /markdown/

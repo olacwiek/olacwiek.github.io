@@ -6,8 +6,8 @@ main:
     #url: https://scholar.google.com/citations?user=jRmut5IAAAAJ
 
   # TO DO:
-  # - title: "Talks and Events"
-  #   url: /talks/
+  - title: "Recent talks"
+    url: /talks/
   #
   # - title: "Teaching"
   #   url: /teaching/

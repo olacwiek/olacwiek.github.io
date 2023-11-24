@@ -11,16 +11,16 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  # CREATE THIS SUBPAGES
   - title: "Press"
     url: /press/
 
+  # CREATE THIS SUBPAGES
   # - title: "Links"
   #   url: /links/ wsith links to ViCom, FB1 Twitter, envisionBOX
 
-  - title: "CV"
+  #- title: "CV"
     #url: /cv/
-    url: /files/Cwiek_Aleksandra_CV.pdf
+    #url: /files/Cwiek_Aleksandra_CV.pdf
 
 #  - title: "Portfolio"
 #    url: /portfolio/

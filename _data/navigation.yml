@@ -5,12 +5,11 @@ main:
     url: /publications/
     #url: https://scholar.google.com/citations?user=jRmut5IAAAAJ
 
-  # TO DO:
   - title: "Recent talks"
     url: /talks/
-  #
-  # - title: "Teaching"
-  #   url: /teaching/
+
+  - title: "Teaching"
+    url: /teaching/
 
   # CREATE THIS SUBPAGES
   # - title: "Press"

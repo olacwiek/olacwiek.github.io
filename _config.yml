@@ -84,7 +84,8 @@ author:
   avatar           : "ola.jpg"
   bio              : "Phonetician"
   location         : "Berlin, Germany"
-  employer         : "Leibniz-Centre General Linguistics"
+  employer         : >-
+    "Leibniz-Centre General Linguistics"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jRmut5IAAAAJ"
   email            : "cwiek@leibniz-zas.de"

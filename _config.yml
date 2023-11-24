@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aleksandra's Homepage'"
+title                    : "Aleksandra Ćwiek"
 title_separator          : "-"
 name                     : &name "Aleksandra Ćwiek"
 description              : &description "personal description"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Aleksandra Ćwiek"
-  avatar           : "ola.jpg"
+  avatar           : "ola.png"
   bio              : "Phonetician"
   location         : "Berlin, Germany"
   employer         : "Leibniz-Centre General Linguistics (ZAS)"
-  pubmed           : ""
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jRmut5IAAAAJ"
   email            : "cwiek@leibniz-zas.de"
   researchgate     :  "https://www.researchgate.net/profile/Aleksandra-Cwiek"

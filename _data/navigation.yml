@@ -12,8 +12,8 @@ main:
     url: /teaching/
 
   # CREATE THIS SUBPAGES
-  # - title: "Press"
-  #   url: /press/
+  - title: "Press"
+    url: /press/
 
   # - title: "Links"
   #   url: /links/ wsith links to ViCom, FB1 Twitter, envisionBOX

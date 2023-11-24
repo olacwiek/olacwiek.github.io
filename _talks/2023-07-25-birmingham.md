@@ -1,5 +1,5 @@
 ---
-title: "Does thin sound ""small"" and heavy sound ""big""? – An investigation of the size sound symbolic potential of antonym adjective pairs"
+title: "Does thin sound \"small\" and heavy sound \"big\"? – An investigation of the size sound symbolic potential of antonym adjective pairs"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-07-25-birmingham

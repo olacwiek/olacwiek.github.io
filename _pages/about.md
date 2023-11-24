@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Principal Investigator and a PostDoc at the Research Area 1: [Laboratory Phonology](https://www.leibniz-zas.de/en/research/research-areas/laboratory-phonology), [Leibniz-Centre General Linguistics](https://www.leibniz-zas.de/) in Berlin. I am currently co-leading a project ["On the FLExibility and Stability of Gesture-speecH Coordination (FLESH): Evidence from Production, Comprehension, and Imitation"](https://vicom.info/projects/on-the-flexibility-and-stability-of-gesture-speech-coordination-flesh-evidence-from-production-comprehension-and-imitation/), funded within the DFG Priority Programme [Visual Communication](https://vicom.info/), together with Susanne Fuchs and Wim Pouw.
+I'm a Principal Investigator and a PostDoc at the Research Area 1: [Laboratory Phonology](https://www.leibniz-zas.de/en/research/research-areas/laboratory-phonology), [Leibniz-Centre General Linguistics](https://www.leibniz-zas.de/) in Berlin. Currently, I'm co-leading a project ["On the FLExibility and Stability of Gesture-speecH Coordination (FLESH): Evidence from Production, Comprehension, and Imitation"](https://vicom.info/projects/on-the-flexibility-and-stability-of-gesture-speech-coordination-flesh-evidence-from-production-comprehension-and-imitation/), funded within the DFG Priority Programme [Visual Communication](https://vicom.info/). This project is a collaboration with Susanne Fuchs, Wim Pouw, and Šárka Kadavá.
 
 I am a phonetician by training and passion. My research focus lies in exploring iconicity in language at various levels, particularly in spoken language. My research encompasses both acoustic and prosodic aspects as well as sound symbolism.
 
@@ -17,6 +17,6 @@ I did my Ph.D. in General Linguistics at the Humboldt-Universität zu Berlin. My
 
 Why some people call me Ola [ɔla]
 ======
-I come from Poland, and in Poland, the short version of the name <i>Aleksandra</i> is <i>Ola</i>. I don't know why, but I like to consider the Polish vowel system when thinking about this. You see, we only have six vowels in Polish: [a ɛ i ɨ u ɔ], written as <a e i y u o>. Alicja is <i>Ala</i>, Elżbieta is <i>Ela</i>, Urszula is <i>Ula</i>... Ask any Polish native speaker and they will most likely tell you that <i>Ila</i> and <i>Yla</i> feel weird. So, <b>Ola</b> it was. That's how the convention was made.
+I come from Poland, and in Poland, the short version of the name Aleksandra is <i>Ola</i>. I don't know why, but I like to consider the Polish vowel system when thinking about this. You see, we only have six vowels in Polish: [a ɛ i ɨ u ɔ], written as &lt;a e i y u o&gt;. Alicja is <i>Ala</i>, Elżbieta is <i>Ela</i>, Urszula is <i>Ula</i>... Ask any Polish native speaker and they will most likely tell you that <i>Ila</i> and <i>Yla</i> feel weird. So, <b>Ola</b> it was. That's how the convention was made.
 
 If you have a scientifically grounded explanation, please don't hesitate to contact me.

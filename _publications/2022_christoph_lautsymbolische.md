@@ -3,7 +3,7 @@ title: "Lautsymbolische Größencodierung bei der Benennung von Hunden"
 collection: publications
 permalink: /publication/2022_christoph_lautsymbolische
 excerpt:
-date: 2022
+date: 2022-10-01
 venue: '18. Phonetik und Phonologie im deutschsprachigen Raum'
 paperurl: 'http://olacwiek.github.io/files/PP_2022_paper_3865.pdf'
 citation: 'Christoph, N., & <b>Ćwiek, A.</b> (2022). Lautsymbolische Größencodierung bei der Benennung von Hunden. <i>Tagungsband der 18. Tagung Phonetik und Phonologie im deutschsprachigen Raum</i>. Phonetik und Phonologie im deutschsprachigen Raum, Bielefeld, Germany. '

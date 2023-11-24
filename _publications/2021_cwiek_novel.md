@@ -3,7 +3,7 @@ title: "Novel vocalizations are understood across cultures"
 collection: publications
 permalink: /publication/2021_cwiek_novel
 excerpt:
-date: 2021
+date: 2021-05-01
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-021-89445-4'
 citation: '<b>Ćwiek, A.</b>, Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., Kawahara, S., Koutalidis, S., Krifka, M., Lippus, P., Lupyan, G., Oh, G. E., Paul, J., Petrone, C., Ridouane, R., Reiter, S., Schümchen, N., Szalontai, Á., Ünal-Logacev, Ö., … Perlman, M. (2021). Novel vocalizations are understood across cultures. <i>Scientific Reports</i>, 11(1), 10108. '

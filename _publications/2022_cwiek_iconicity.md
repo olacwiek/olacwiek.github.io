@@ -3,7 +3,7 @@ title: "Iconicity in Language and Speech"
 collection: publications
 permalink: /publication/2022_cwiek_iconicity
 excerpt: 'This is my doctoral dissertation, supervised by Manfred Krifka, Susanne Fuchs, and Marcus Perlman'
-date: 2022
+date: 2022-07-13
 venue: 'Humboldt-Universität zu Berlin'
 paperurl: 'https://edoc.hu-berlin.de/handle/18452/25687'
 citation: '<b>Ćwiek, A.</b> (2022). Iconicity in Language and Speech. Ph.D. Thesis, Humboldt-Universität zu Berlin. '

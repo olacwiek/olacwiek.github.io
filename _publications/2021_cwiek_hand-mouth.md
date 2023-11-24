@@ -3,7 +3,7 @@ title: "Hand-Mouth Coordination in a Pointing Task Requiring Manual Precision"
 collection: publications
 permalink: /publication/2021_cwiek_hand-mouth
 excerpt:
-date: 2021
+date: 2021-12-01
 venue: 'Proceedings of the 12th ISSP'
 paperurl: 'http://olacwiek.github.io/files/ISSP_Cwiek_Fuchs.pdf'
 citation: '<b>Ćwiek, A.</b>, & Fuchs, S. (2021). Hand-Mouth Coordination in a Pointing Task Requiring Manual Precision. <i>Proceedings of the 12th ISSP</i>. 12th International Seminar on Speech Production, New Haven, CT: Haskins Laboratories.'

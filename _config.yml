@@ -228,6 +228,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""

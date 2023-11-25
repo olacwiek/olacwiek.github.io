@@ -8,11 +8,14 @@ main:
   - title: "Recent talks"
     url: /talks/
 
+  - title: "Events"
+    url: /events/
+
   - title: "Teaching"
     url: /teaching/
 
-  #- title: "Press"
-  #  url: /press/
+  - title: "Press"
+    url: /press/
 
   # CREATE THIS SUBPAGES
   # - title: "Links"

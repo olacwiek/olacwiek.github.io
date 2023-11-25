@@ -5,12 +5,36 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Publications
 
-{% include base_path %}
+- Kadavá, Š., **Ćwiek, A.**, Stoltmann, K., Fuchs, S., \& Pouw, W. (2023). Is gesture-speech physics at work in rhythmic pointing? Evidence from Polish counting-out rhymes. *Proceedings of the 20th International Congress of Phonetic Sciences*. Prague, Czechia. [Download](https://osf.io/67fzc/)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Gregori, A., Amici, F., Brilmayer, I., **Ćwiek, A.**, Fritzsche, L., Fuchs, S., Henlein, A., Herbort, O., Kügler, F., Lemanski, J., Liebal, K., Lücking, A., Mehler, A., Nguyen, K. T., Pouw, W., Prieto, P., Rohrer, P. L., Sánchez-Ramón, P. G., Schulte-Rüther, M., … \& von Eiff, C. I. (2023). A Roadmap for Technological Innovation in Multimodal Communication Research. In V. G. Duffy (Ed.), *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management*, (pp. 402–438). Springer Nature Switzerland.. [Download](http://olacwiek.github.io/files/Gregori_et_al._2023_submitted_version.pdf)
+
+- Kilpatrick, A. J.\*, **Ćwiek, A.\***, \& Kawahara, S. (2023). A cross-linguistic, sound symbolic relationship between labial consonants, voiced plosives, and Pokémon friendship. *Frontiers in Psychology, 14*. (\* shared first-authorship) [Download](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1113143)
+
+- Kilpatrick, A. J., \& **Ćwiek, A.**, Lewis, E., Kawahara, S. (2023). Random forests, sound symbolism and Pokémon evolution. *PLOS ONE, 18*(1). [Download](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279350)
+
+- Christoph, N., & **Ćwiek, A.** (2022). *Lautsymbolische Größencodierung bei der Benennung von Hunden.* Tagungsband der 18. Tagung Phonetik und Phonologie im deutschsprachigen Raum. [Download](https://doi.org/10.11576/pundp2022-1032) [See more](http://olacwiek.github.io/publication/2022_christoph_lautsymbolische)
+
+- **Ćwiek, A.** (2022). Iconicity in Language and Speech. *Ph.D. Thesis*, Humboldt University of Berlin. [Download](https://edoc.hu-berlin.de/handle/18452/25687)
+
+- **Ćwiek, A.**, Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., Kawahara, S., Koutalidis, S., Krifka, M., Lippus, P., Lupyan, G., Oh, G. E., Paul, J., Petrone, C., Ridouane, R., Reiter, S., Schümchen, N., Szalontai, Á., Ünal-Logacev, Ö., Zeller, J., Perlman, M., \& Winter, B. (2022). *The bouba/kiki effect is robust across cultures and writing systems. *Philosophical Transactions of the Royal Society B: Biological Sciences, 377*(1841). [Download](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0390)
+
+- Fuchs, S., \& **Ćwiek, A.** (2022). Sounds Full of Meaning and the Evolution of Language. *Acoustics Today, 18*(2), 43-51. [Download](https://doi.org/10.1121/AT.2022.18.2.43)
+
+- **Ćwiek, A.**, Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., Kawahara, S., Koutalidis, S., Krifka, M., Lippus, P., Lupyan, G., Oh, G. E., Paul, J., Petrone, C., Ridouane, R., Reiter, S., Schümchen, N., Szalontai, Á., Ünal-Logacev, Ö., Zeller, J., Winter, B., \& Perlman, M. (2021). Novel vocalizations are understood across cultures. *Scientific Reports, 11*, 10108. [Download](https://www.nature.com/articles/s41598-021-89445-4)
+
+- Wagner, P., **Ćwiek, A.**, \& Samlowski, B. (2019). Exploiting the speech-gesture link to capture fine-grained prosodic prominence impressions and listening strategies. *Journal of Phonetics, 76*, 100911. [Download](http://www.sciencedirect.com/science/article/pii/S009544701830038X)
+
+- **Ćwiek, A.**, \& Fuchs, S. (2019). Iconic prosody is rooted in sensori-motor properties: fundamental frequency and the vertical space. *Proceedings of the Annual Meeting of the Cognitive Science Society, 41*, 1572-1578. [Download](https://cogsci.mindmodeling.org/2019/papers/0282/0282.pdf)
+
+- **Ćwiek, A.,** \& Wagner, P. (2018). The Acoustic Realization of Prosodic Prominence in Polish: Word-level Stress and Phrase-level Accent. *9th International Conference on Speech Prosody 2018*, 922-926. [Download](http://www.isca-speech.org/archive/SpeechProsody_2018/abstracts/191.html)
+
+- **Ćwiek, A.,**, Włodarczak, M., Heldner, M., & Wagner, P. (2017). Acoustics and discourse function of two types of breathing signals. *Nordic Prosody: Proceedings of the XIIth Conference*, Trondheim 2016, 83–91. [Download](https://su.diva-portal.org/smash/get/diva2:1128916/FULLTEXT02.pdf)
+
+- Wagner, P., **Ćwiek, A.,**, \& Samlowski, B. (2016). Beat it! – Gesture-based Prominence Annotation as a Window to Individual Prosody Processing Strategies. *Tagungsband der 12. Tagung Phonetik und Phonologie im Deutschsprachigen Raum*, 211–214. [Download](https://pub.uni-bielefeld.de/download/2905407/2905410/wagner_cwiek_samlowski2016.pdf)
+
+- **Ćwiek, A.**, Neueder, S., \& Wagner, P. (2016). Investigating the communicative function of breathing and non-breathing \"silent\" pauses. *Tagungsband der 12. Tagung Phonetik und Phonologie im Deutschsprachigen Raum*, 27–29. [Download](https://pub.uni-bielefeld.de/download/2905904/2906499/cwiek_neueder_wagner_2016.pdf)
+
+- Malisz, Z., Ćwiek, A., & Wagner, P. (2015). The perception of prominence by Polish native speakers: A crowdsourcing study. *Proceedings of the 45th Poznań Linguistic Meeting*. The 45th Poznań Linguistic Meeting (PLM2015), Poznań, Poland. [Download](http://olacwiek.github.io/files/malisz_2015_perception.pdf)

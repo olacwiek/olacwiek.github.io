@@ -16,3 +16,5 @@ This work was first-authored by the Melissa Ebert, a master's student from my co
 ![A picture of Melissa and our poster](http://olacwiek.github.io/images/melissa.JPG){:width="50%" height="50%"}
 
 [Download abstract here](http://olacwiek.github.io/files/Ebert_Cwiek.pdf)
+
+[See poster here](http://dx.doi.org/10.13140/RG.2.2.26916.04486)

@@ -10,7 +10,8 @@ redirect_from:
 
 I'm a Principal Investigator and a PostDoc at the Research Area 1: [Laboratory Phonology](https://www.leibniz-zas.de/en/research/research-areas/laboratory-phonology), [Leibniz-Centre General Linguistics](https://www.leibniz-zas.de/) in Berlin. Currently, I'm co-leading a project ["On the FLExibility and Stability of Gesture-speecH Coordination (FLESH): Evidence from Production, Comprehension, and Imitation"](https://vicom.info/projects/on-the-flexibility-and-stability-of-gesture-speech-coordination-flesh-evidence-from-production-comprehension-and-imitation/), funded within the DFG Priority Programme [Visual Communication](https://vicom.info/). This project is a collaboration with Susanne Fuchs, Wim Pouw, and Šárka Kadavá.
 
-I'm a phonetician by training and passion. My research focus lies in exploring iconicity in language at various levels, particularly in spoken language. My research encompasses both acoustic and prosodic aspects as well as sound symbolism.
+I'm a phonetician by training and passion. My research primarily focuses on exploring iconicity in language across various levels, with a special emphasis on spoken language. This research spans acoustic and prosodic aspects, as well as sound symbolism. Additionally, I delve into the kinematic properties and multimodality of communication.
+#My research focus lies in exploring iconicity in language at various levels, particularly in spoken language. My research encompasses both acoustic and prosodic aspects as well as sound symbolism. I also explore the kinematic properties of communication, the multimodality of communication, and I'm interested in language evolution.
 
 I completed my Ph.D. in General Linguistics at the Humboldt-Universität zu Berlin in 2022. My thesis ["Iconicity in Language and Speech"](https://edoc.hu-berlin.de/handle/18452/25687) was supervised by Manfred Krifka, Susanne Fuchs, and Marcus Perlman.
 

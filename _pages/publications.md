@@ -5,9 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Kilpatrick, A. J., & **Ćwiek, A.** (submitted). Using Artificial Intelligence to Explore Sound Symbolic Expressions of Gender in American English.
+- Ngai, C. H., Kilpatrick, A. J., & **Ćwiek, A.** (accepted). Sound Symbolism in Japanese Names: Machine Learning Approaches to Gender Classification.
 
-- Ngai, C. H., **Ćwiek, A.**, & Kilpatrick, A. J. (submitted). Sound Symbolism in Japanese Names: Machine Learning Approaches to Gender Classification.
+2024
+===
+
+- Kilpatrick A, & **Ćwiek, A.** (2024). Using artificial intelligence to explore sound symbolic expressions of gender in American English. *PeerJ Computer Science* 10:e1811 [(Download)](https://doi.org/10.7717/peerj-cs.1811)
 
 2023
 ===

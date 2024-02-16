@@ -21,7 +21,7 @@ I come from Poland, and in Poland, the short version of the name Aleksandra is <
 
 If you have a scientifically grounded explanation, please don't hesitate to contact me.
 
-
-
+<br>
+<br>
 
 <sup>Photo by Stefanie Wetzel, made for SPP ViCom.</sup>

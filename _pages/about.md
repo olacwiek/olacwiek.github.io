@@ -14,6 +14,8 @@ I'm a phonetician by training and passion. My research primarily focuses on expl
 
 I completed my Ph.D. in General Linguistics at the Humboldt-Universität zu Berlin in 2022. My thesis ["Iconicity in Language and Speech"](https://edoc.hu-berlin.de/handle/18452/25687) was supervised by Manfred Krifka, Susanne Fuchs, and Marcus Perlman.
 
+I'm one of the initiators of the [envisionBOX](https://envisionbox.org/), a platform for learners and creators working with multimodal data.
+
 
 Why some people call me Ola [ɔla]
 ======

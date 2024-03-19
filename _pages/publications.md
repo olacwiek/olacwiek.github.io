@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Ngai, C. H., Kilpatrick, A. J., & **Ćwiek, A.** (accepted). Sound Symbolism in Japanese Names: Machine Learning Approaches to Gender Classification.
+**Ćwiek, A.**, Anselme, R., Kawahara, S., Perlman, M., Winter, B., Dediu, D.,\* & Fuchs, S.\* (submitted). The alveolar trill is perceived rough by speakers of different languages. (\* equal contribution)
 
 2024
 ===
+
+- Henlein, A., Bauer, A., Bhattacharjee, R., **Ćwiek, A.**, Gregori, A., Kügler, F., Lemanski, J., Lücking, A., Mehler, A., Prieto, P., Sánchez-Ramón, P., Schepens, J., Schulte-Rüther, M., Schweinberger, S., & von Eiff, C. (in print). An Outlook for AI Innovation in Multimodal Communication Research. In: Duffy, V.G. (eds) *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management*. Lecture Notes in Computer Science.
+
+- Ngai, C. H., Kilpatrick, A. J., & **Ćwiek, A.** (2024). Sound symbolism in Japanese names: Machine learning approaches to gender classification. *PLOS ONE 19*(3) [(Download)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297440)
 
 - Kilpatrick A, & **Ćwiek, A.** (2024). Using artificial intelligence to explore sound symbolic expressions of gender in American English. *PeerJ Computer Science* 10:e1811 [(Download)](https://doi.org/10.7717/peerj-cs.1811)
 
@@ -19,7 +23,7 @@ author_profile: true
 
 - Gregori, A., Amici, F., Brilmayer, I., **Ćwiek, A.**, Fritzsche, L., Fuchs, S., Henlein, A., Herbort, O., Kügler, F., Lemanski, J., Liebal, K., Lücking, A., Mehler, A., Nguyen, K. T., Pouw, W., Prieto, P., Rohrer, P. L., Sánchez-Ramón, P. G., Schulte-Rüther, M., … & von Eiff, C. I. (2023). A Roadmap for Technological Innovation in Multimodal Communication Research. In V. G. Duffy (Ed.), *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management*, (pp. 402–438). Springer Nature Switzerland. [(Download)](http://olacwiek.github.io/files/Gregori_et_al._2023_submitted_version.pdf) [(See more)](http://olacwiek.github.io/publication/2023_gregori_roadmap)
 
-- Kilpatrick, A. J.\*, **Ćwiek, A.\***, & Kawahara, S. (2023). A cross-linguistic, sound symbolic relationship between labial consonants, voiced plosives, and Pokémon friendship. *Frontiers in Psychology, 14*. (\* shared first-authorship) [(Download)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1113143) [(See more)](http://olacwiek.github.io/publication/2023_kilpatrick_cross-linguistic)
+- Kilpatrick, A. J.\*, **Ćwiek, A.\***, & Kawahara, S. (2023). A cross-linguistic, sound symbolic relationship between labial consonants, voiced plosives, and Pokémon friendship. *Frontiers in Psychology, 14*. (\* equal contribution) [(Download)](https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1113143) [(See more)](http://olacwiek.github.io/publication/2023_kilpatrick_cross-linguistic)
 
 - Kilpatrick, A. J., & **Ćwiek, A.**, Lewis, E., Kawahara, S. (2023). Random forests, sound symbolism and Pokémon evolution. *PLOS ONE, 18*(1). [(Download)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279350) [(See more)](http://olacwiek.github.io/publication/2023_kilpatrick_random)
 

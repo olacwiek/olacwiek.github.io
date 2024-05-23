@@ -12,7 +12,7 @@ author_profile: true
 
 - Kadavá, Š., **Ćwiek, A.**, Fuchs S., & Pouw, W. (2024). What do we mean when we say gestures are more expressive than vocalizations? An experimental and simulation study. *Proceedings of the Annual Meeting of the Cognitive Science Society*. Rotterdam, The Netherlands. [(Download)](https://www.researchgate.net/publication/380533308_What_do_we_mean_when_we_say_gestures_are_more_expressive_than_vocalizations_An_experimental_and_simulation_study)
 
-- Fuchs, S.\*, Kadavá, Š.\*, Pouw, W., Walker, B., Fay, N., Winter, B., & **Ćwiek, A.** (2024). Exploring the sound structure of novel vocalizations. *Proceedings of the 15th International Conference on the Evolution of Language*. UW Madison, WI, USA. (\* equal contribution)) [(Download)](https://evolang2024.github.io/proceedings/papers/evolang15_paper_113.pdf)
+- Fuchs, S.\*, Kadavá, Š.\*, Pouw, W., Walker, B., Fay, N., Winter, B., & **Ćwiek, A.** (2024). Exploring the sound structure of novel vocalizations. *Proceedings of the 15th International Conference on the Evolution of Language*. UW Madison, WI, USA. (\* equal contribution) [(Download)](https://evolang2024.github.io/proceedings/papers/evolang15_paper_113.pdf)
 
 - Henlein, A., Bauer, A., Bhattacharjee, R., **Ćwiek, A.**, Gregori, A., Kügler, F., Lemanski, J., Lücking, A., Mehler, A., Prieto, P., Sánchez-Ramón, P., Schepens, J., Schulte-Rüther, M., Schweinberger, S., & von Eiff, C. (in print). An Outlook for AI Innovation in Multimodal Communication Research. In: Duffy, V.G. (eds) *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management*. Lecture Notes in Computer Science.
 

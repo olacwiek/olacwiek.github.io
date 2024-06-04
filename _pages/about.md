@@ -21,7 +21,7 @@ Why some people call me Ola [ɔla]
 ======
 I come from Poland, and in Poland, the short version of the name Aleksandra is <i>Ola</i>. I don't know why, but I like to consider the Polish vowel system when thinking about this. You see, we only have six vowels in Polish: [a ɛ i ɨ u ɔ], written as &lt;a e i y u o&gt;. Alicja is <i>Ala</i>, Elżbieta is <i>Ela</i>, Urszula is <i>Ula</i>... Ask any Polish native speaker and they will most likely tell you that <i>Ila</i> and <i>Yla</i> feel weird. So, <b>Ola</b> it was. That's how the convention was made.
 
-Mateusz Adamczyk comes with a [scientific explanation](https://www.tiktok.com/@.mateuszadamczyk/video/7198530480629697797?is_from_webapp=1&sender_device=pc&web_id=7376583711061689888). Through language contact with Ukrainian, Oleksandra appeared as a version of Aleksandra. At some point, Oleksandra disappeared from Polish, and the short form of the name was attached to the remaining original Aleksandra.
+Mateusz Adamczyk comes with a [scientific explanation](https://www.tiktok.com/@.mateuszadamczyk/video/7198530480629697797?is_from_webapp=1&sender_device=pc&web_id=7376583711061689888) (also see [this post](https://sjp.pwn.pl/poradnia/haslo/dlaczego-Ola;12479.html)). At some point, through language contact with Ukrainian and Russian, Oleksandra emerged as a version of Aleksandra. Later, Oleksandra disappeared from Polish, and the short form of the name, i.e., Ola, was attached to the remaining original Aleksandra.
 
 <br>
 

@@ -5,9 +5,14 @@ title: "Press"
 author_profile: true
 ---
 
+  * [Ouch! Linguists Find Universal Language for Pain (interview)](https://www.scientificamerican.com/article/expressions-of-pain-may-have-a-common-origin/),
+  *Scientific American*, November 27, 2024.
 
   * [Why Are Letters Shaped the Way They Are? (interview)](https://www.vice.com/en/article/4awqz3/why-are-letters-shaped-the-way-they-are),
   *Vice*, February 11, 2022.
+
+  * [What Is the Shape of This Word? (podcast interview)](https://www.scientificamerican.com/podcast/episode/what-is-the-shape-of-this-word/),
+  *Scientific American*, February 2, 2022.
 
   * [How shapes sound and how sounds shove (interview)](https://cen.acs.org/materials/shapes-sound-sounds-shove/100/i2),
     *Chemical & Engineering News*, January 12, 2022.

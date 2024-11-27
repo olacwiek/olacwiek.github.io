@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Ćwiek, A.**, Anselme, R., Kawahara, S., Perlman, M., Winter, B., Dediu, D.,\* & Fuchs, S.\* (submitted). The alveolar trill is perceived rough by speakers of different languages. (\* equal contribution)
-
 2024
 ===
 
-- Kadavá, Š., **Ćwiek, A.**, Fuchs S., & Pouw, W. (2024). What do we mean when we say gestures are more expressive than vocalizations? An experimental and simulation study. *Proceedings of the Annual Meeting of the Cognitive Science Society*. Rotterdam, The Netherlands. [(Download)](https://www.researchgate.net/publication/380533308_What_do_we_mean_when_we_say_gestures_are_more_expressive_than_vocalizations_An_experimental_and_simulation_study)
+- **Ćwiek, A.**, Anselme, R., Dediu, D., Fuchs, S., Kawahara, S., Oh, G. E., Paul, J., Perlman, M., Petrone, C., Reiter, S., Ridouane, R., Zeller, J., & Winter, B. (2024). The alveolar trill is perceived as jagged/rough by speakers of different languages. *The Journal of the Acoustical Society of America, 156*(5), 3468–3479. [(Download)](https://doi.org/10.1121/10.0034416)
+
+- Kadavá, Š., **Ćwiek, A.**, Fuchs S., & Pouw, W. (2024). What do we mean when we say gestures are more expressive than vocalizations? An experimental and simulation study. *Proceedings of the Annual Meeting of the Cognitive Science Society*. Rotterdam, The Netherlands. [(Download)](https://escholarship.org/uc/item/2mp1v3v5)
 
 - Fuchs, S.\*, Kadavá, Š.\*, Pouw, W., Walker, B., Fay, N., Winter, B., & **Ćwiek, A.** (2024). Exploring the sound structure of novel vocalizations. *Proceedings of the 15th International Conference on the Evolution of Language*. UW Madison, WI, USA. (\* equal contribution) [(Download)](https://evolang2024.github.io/proceedings/papers/evolang15_paper_113.pdf)
 
-- Henlein, A., Bauer, A., Bhattacharjee, R., **Ćwiek, A.**, Gregori, A., Kügler, F., Lemanski, J., Lücking, A., Mehler, A., Prieto, P., Sánchez-Ramón, P., Schepens, J., Schulte-Rüther, M., Schweinberger, S., & von Eiff, C. (in print). An Outlook for AI Innovation in Multimodal Communication Research. In: Duffy, V.G. (eds) *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management*. Lecture Notes in Computer Science.
+- Henlein, A., Bauer, A., Bhattacharjee, R., **Ćwiek, A.**, Gregori, A., Kügler, F., Lemanski, J., Lücking, A., Mehler, A., Prieto, P., Sánchez-Ramón, P., Schepens, J., Schulte-Rüther, M., Schweinberger, S., & von Eiff, C. (2024). An Outlook for AI Innovation in Multimodal Communication Research. In: Duffy, V.G. (eds) *Digital Human Modeling and Applications in Health, Safety, Ergonomics and Risk Management* (pp. 182–234). Springer Nature Switzerland. [(Download)](http://olacwiek.github.io/files/Henlein et al._2024_An_Outlook_for_AI_Innovation_in_Multimodal_Communi.pdf)
 
 - Ngai, C. H., Kilpatrick, A. J., & **Ćwiek, A.** (2024). Sound symbolism in Japanese names: Machine learning approaches to gender classification. *PLOS ONE 19*(3) [(Download)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0297440)
 

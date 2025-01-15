@@ -4,6 +4,14 @@ permalink: /press/
 title: "Press"
 author_profile: true
 ---
+  * [Die Profis (live radio interview)](https://www.radioeins.de/archiv/podcast/die_profis.html),
+  *radioeins*, January 18, 2025.
+
+  * [Rrrrrrrrrrrr: Warum wir weltweit dasselbe bei diesem Laut fühlen (interview)](https://www.tagesspiegel.de/wissen/rrrrrrrrrrrr-warum-wir-weltweit-dasselbe-bei-dem-laut-fuhlen-12924625.html),
+  *Tagesspiegel*, January 9, 2025.
+
+  * [Eight Fascinating Things We Learned about Language in 2024](https://www.scientificamerican.com/article/8-fascinating-things-we-learned-about-language-in-2024/),
+  *Scientific American*, December 18, 2024.
 
   * [Ouch! Linguists Find Universal Language for Pain (interview)](https://www.scientificamerican.com/article/expressions-of-pain-may-have-a-common-origin/),
   *Scientific American*, November 27, 2024.

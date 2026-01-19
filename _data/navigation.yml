@@ -5,14 +5,14 @@ main:
     url: /publications/
     #url: https://scholar.google.com/citations?user=jRmut5IAAAAJ
 
-  - title: "Recent talks"
-    url: /talks/
+#  - title: "Recent talks"
+#    url: /talks/
 
-  - title: "Events"
-    url: /events/
+#  - title: "Events"
+#    url: /events/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"
+#    url: /teaching/
 
   - title: "Press"
     url: /press/

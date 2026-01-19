@@ -4,6 +4,17 @@ permalink: /press/
 title: "Press"
 author_profile: true
 ---
+  * [Ikoniczne słowa. O podobieństwie dźwięku do tego, co oznacza (interview)](https://audycje.tokfm.pl/podcast/180070,Ikoniczne-slowa-O-podobienstwie-dzwieku-do-tego-co-oznacza), 
+  *Radio Tok FM*, August 21, 2025.
+
+  * [Podcast "Z innej planety"](https://www.rdc.pl/podcast/z-innej-planety_fY7TF0S0caRGGuoABNJe?episode=ACBDTtLrMFt3tl8WuM2B&active_page=1), 
+  *Radio RDC*, July 29, 2025.
+
+  * [Językoznawczyni: Niezależnie od kultury większość ludzi intuicyjnie łączy obłe kształty ze słowem „bouba”, a kanciaste - z „kiki” (interview)](https://wyborcza.pl/7,75400,32073907,jezykoznawczyni-niezaleznie-od-kultury-wiekszosc-ludzi-intuicyjnie.html), 
+  *Gazeta Wyborcza*, July 3, 2025.
+
+  * [DGfS macht Schule #13: Ikonizität und Multimodalität. Mit Aleksandra Ćwiek](https://www.youtube.com/watch?v=coVheXE4jsk).
+  
   * [Die Profis (live radio interview)](https://www.radioeins.de/archiv/podcast/die_profis.html),
   *radioeins*, January 18, 2025.
 

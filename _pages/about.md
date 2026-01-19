@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Principal Investigator and a PostDoc at the Research Area 1: [Laboratory Phonology](https://www.leibniz-zas.de/en/research/research-areas/laboratory-phonology), [Leibniz-Centre General Linguistics](https://www.leibniz-zas.de/) in Berlin. Currently, I'm co-leading a project ["On the FLExibility and Stability of Gesture-speecH Coordination (FLESH): Evidence from Production, Comprehension, and Imitation"](https://vicom.info/projects/on-the-flexibility-and-stability-of-gesture-speech-coordination-flesh-evidence-from-production-comprehension-and-imitation/), funded within the DFG Priority Programme [Visual Communication](https://vicom.info/). This project is a collaboration with Susanne Fuchs, Wim Pouw, and Šárka Kadavá.
+I'm an Assistant Professor in the Department of Experimental Linguistics at Nicolaus Copernicus University in Toruń, working within the  [Centre for Language Evolution Studies](https://cles.umk.pl/). My research explores the nature and origins of linguistic iconicity, the multimodality of human communication, and questions about language evolution through experimental and cross-linguistic methods.
 
-I'm a phonetician by training and passion. My research primarily focuses on exploring iconicity in language across various levels, with a special emphasis on spoken language. This research spans acoustic and prosodic aspects, as well as sound symbolism. Additionally, I delve into the kinematic properties and multimodality of communication.
-
-I completed my Ph.D. in General Linguistics at the Humboldt-Universität zu Berlin in 2022. My thesis ["Iconicity in Language and Speech"](https://edoc.hu-berlin.de/handle/18452/25687) was supervised by Manfred Krifka, Susanne Fuchs, and Marcus Perlman.
-
-I'm one of the initiators of the [envisionBOX](https://envisionbox.org/), a platform for learners and creators working with multimodal data.
-
+Previously, I was a Principal Investigator and PostDoc at the Research Area 1: [Laboratory Phonology](https://www.leibniz-zas.de/en/research/research-areas/laboratory-phonology), [Leibniz-Centre General Linguistics](https://www.leibniz-zas.de/) in Berlin, where I worked on gesture-speech coordination and multimodal phonetic phenomena (project ["On the FLExibility and Stability of Gesture-speecH Coordination (FLESH): Evidence from Production, Comprehension, and Imitation"](https://www.flesh-vicom.de/)). I completed my Ph.D. in General Linguistics at Humboldt-Universität zu Berlin in 2022, focusing on [iconicity in language and speech](https://edoc.hu-berlin.de/handle/18452/25687).
 
 Why some people call me Ola [ɔla]
 ======

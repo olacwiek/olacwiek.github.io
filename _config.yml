@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aleksandra Ćwiek"
   avatar           : "ola.jpg"
-  bio              : "Phonetician"
-  location         : "Berlin, Germany"
-  employer         : "Leibniz-Centre General Linguistics"
+  bio              : "Linguist"
+  location         : "Toruń, Poland"
+  employer         : "NCU in Toruń"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jRmut5IAAAAJ"
-  email            : "cwiek@leibniz-zas.de"
+  email            : "cwiek@umk.pl"
   researchgate     :  "https://www.researchgate.net/profile/Aleksandra-Cwiek-3"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cwiekaleks"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+2025
+===
+
+- **Ćwiek, A.** & Fuchs, S. (2025). The Scope and Limits of Iconic Prosody: Head Angle Predicts f0 Changes While Object Size Effects Are Absent. *Open Mind, 9*, 1959-1981. [(Download)](https://doi.org/10.1162/OPMI.a.251)
+
+- **Ćwiek, A.** (2025). A dataset of ideophone-like marked words from German children's books. *Linguistische Berichte (LB), 282*, 83-99. [(Download)](http://olacwiek.github.io/files/Ćwiek - 2025 - A dataset of ideophone-like marked words from Germ.pdf)
+
+- **Ćwiek, A.**, Kreiman, J., & Fuchs, S. (2025). Introduction to the Special Issue on Iconicity and Sound Symbolism. *The Journal of the Acoustical Society of America, 157*(5), 3806–3813. [(Download)](https://doi.org/10.1121/10.0036662)
+
+
 2024
 ===
 

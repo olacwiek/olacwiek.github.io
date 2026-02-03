@@ -8,12 +8,16 @@ author_profile: true
 2026
 ===
 
+- **Ćwiek, A.** (to appear). Index; Konvention; Semiotik; Signifikant; Signifikat; Symbol; Zeichen. In: Gutzmann, Daniel & Katharina Turgay & Thomas Ede Zimmermann (eds.) *Wörterbücher zur Sprach- und Kommunikationswissenschaft. Band 10: Semantik und Pragmatik.* (WSK 10). Berlin: de Gruyter Brill. (Total of 5 entries)
+
 - Kadavá, Š., **Ćwiek, A.** & Fuchs, S. (accepted). Communicating from head to toe: The physiological processes in multimodal language. In J. A. Bateman & C.-I. Tseng (Eds), *The Handbook of Linguistics and Multimodality*. Wiley/Blackwell. [(Download preprint)](http://olacwiek.github.io/files/Kadava_et_al_2026_Communicating_from_head_to_toe.pdf)
 
 2025
 ===
 
 - **Ćwiek, A.** & Fuchs, S. (2025). The Scope and Limits of Iconic Prosody: Head Angle Predicts f0 Changes While Object Size Effects Are Absent. *Open Mind, 9*, 1959-1981. [(Download)](https://doi.org/10.1162/OPMI.a.251)
+
+- **Ćwiek, A.** (2025). Arbitrarität; Ideophon; Ikon; Ikonizität; Onomatopoietikon. In: Gutzmann, Daniel & Katharina Turgay & Thomas Ede Zimmermann (eds.) *Wörterbücher zur Sprach- und Kommunikationswissenschaft. Band 10: Semantik und Pragmatik.* (WSK 10). Berlin: de Gruyter Brill. (Total of 5 entries)
 
 - **Ćwiek, A.** (2025). A dataset of ideophone-like marked words from German children's books. *Linguistische Berichte (LB), 282*, 83-99. [(Download)](http://olacwiek.github.io/files/Ćwiek - 2025 - A dataset of ideophone-like marked words from Germ.pdf)
 

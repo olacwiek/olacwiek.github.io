@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+2026
+===
+
+- Kadavá, Š., **Ćwiek, A.** & Fuchs, S. (accepted). Communicating from head to toe: The physiological processes in multimodal language. In J. A. Bateman & C.-I. Tseng (Eds), *The Handbook of Linguistics and Multimodality*. Wiley/Blackwell. [(Download preprint)](http://olacwiek.github.io/files/Kadava_et_al_2026_Communicating_from_head_to_toe.pdf)
+
 2025
 ===
 

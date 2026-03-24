@@ -8,9 +8,13 @@ author_profile: true
 2026
 ===
 
-- **Ćwiek, A.** (to appear). Index; Konvention; Semiotik; Signifikant; Signifikat; Symbol; Zeichen. In: Gutzmann, Daniel & Katharina Turgay & Thomas Ede Zimmermann (eds.) *Wörterbücher zur Sprach- und Kommunikationswissenschaft. Band 10: Semantik und Pragmatik.* (WSK 10). Berlin: de Gruyter Brill. (Total of 7 entries)
+- Kadavá, Š., **Ćwiek, A.** & Fuchs, S. (to appear in Fall 2026). Communicating from head to toe: The physiological processes in multimodal language. In J. A. Bateman & C.-I. Tseng (Eds), *The Handbook of Linguistics and Multimodality*. Wiley/Blackwell. [(Download preprint)](http://olacwiek.github.io/files/Kadava_et_al_2026_Communicating_from_head_to_toe.pdf)
 
-- Kadavá, Š., **Ćwiek, A.** & Fuchs, S. (accepted). Communicating from head to toe: The physiological processes in multimodal language. In J. A. Bateman & C.-I. Tseng (Eds), *The Handbook of Linguistics and Multimodality*. Wiley/Blackwell. [(Download preprint)](http://olacwiek.github.io/files/Kadava_et_al_2026_Communicating_from_head_to_toe.pdf)
+- Bauer, A., Trettenbrein, P. C., Amici, F., **Ćwiek, A.**, Fuchs, S., Krause, L.-M., Kuder, A., Ladewig, S., Schulder, M., Schumacher, P., Spruijt, D., Zulberti, C., & Schulte-Rüther, M. (under review). *Data Collection in Multimodal Language and Communication Research: A Flexible Decision Framework*. [(Download preprint)](https://osf.io/preprints/psyarxiv/42tud_v4)
+
+- Kuleshova, S., **Ćwiek, A.**, Hartmann, S., Pleyer, M., Sibierska, M., Placiński, M., Blomberg, J., Żywiczyński, P., & Wacewicz, S. (2026). Exploring the Guessing-Game Experimental Paradigm: Inferences From Closed- Versus Open-Ended Semantic Space. *Cognitive Science, 50*(3), e70199. [(Download)](https://doi.org/10.1111/cogs.70199)
+
+- **Ćwiek, A.** (2026). Index; Konvention; Semiotik; Signifikant; Signifikat; Symbol; Zeichen. In: Gutzmann, Daniel & Katharina Turgay & Thomas Ede Zimmermann (eds.) *Wörterbücher zur Sprach- und Kommunikationswissenschaft. Band 10: Semantik und Pragmatik.* (WSK 10). Berlin: de Gruyter Brill. (Total of 7 entries)
 
 2025
 ===

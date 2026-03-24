@@ -4,6 +4,8 @@ permalink: /press/
 title: "Press"
 author_profile: true
 ---
+  * [‘Mind-blowing’ baby chick study challenges a theory of how humans evolved language (interview)](https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/), *Scientific American*, February 19, 2026.
+
   * [Ikoniczne słowa. O podobieństwie dźwięku do tego, co oznacza (interview)](https://audycje.tokfm.pl/podcast/180070,Ikoniczne-slowa-O-podobienstwie-dzwieku-do-tego-co-oznacza), 
   *Radio Tok FM*, August 21, 2025.
 
